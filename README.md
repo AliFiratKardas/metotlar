@@ -1,0 +1,2 @@
+# metotlar
+metot_odevi
