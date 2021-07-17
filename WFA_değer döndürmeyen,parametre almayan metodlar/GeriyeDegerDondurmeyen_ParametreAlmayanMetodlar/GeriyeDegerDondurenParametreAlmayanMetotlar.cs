@@ -216,5 +216,6 @@ namespace GeriyeDegerDondurmeyen_ParametreAlmayanMetodlar
         {
             decimal s1 =SayiSec();
         }
+        //DENEMEDİR
     }
 }
