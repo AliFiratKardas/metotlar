@@ -1,0 +1,68 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\08.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.HamburgerMenu.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.MainMenu.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.ReportForm.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.TableForm.resources
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe.config
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.pdb
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.HamburgerMenu.resources
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.MainMenu.resources
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Properties.Resources.resources
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.ReportForm.resources
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.TableForm.resources
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.exe
+C:\Users\firat\Desktop\2-Introduction-main\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.pdb
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe.config
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.pdb
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.HamburgerMenu.resources
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.MainMenu.resources
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Properties.Resources.resources
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.ReportForm.resources
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.TableForm.resources
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.exe
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.pdb
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.UsersForm.resources
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Masalar.resources
+C:\Users\firat\Desktop\2-Introduction-main-fırat\13.07\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Campaign.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe.config
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.pdb
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Campaign.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.HamburgerMenu.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.MainMenu.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Properties.Resources.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.ReportForm.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.TableForm.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Masalar.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.UsersForm.resources
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.exe
+C:\Users\firat\Desktop\GİTHUB\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.pdb
