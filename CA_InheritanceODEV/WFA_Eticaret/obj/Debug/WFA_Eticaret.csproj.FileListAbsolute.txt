@@ -1,0 +1,10 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\bin\Debug\WFA_Eticaret.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\bin\Debug\WFA_Eticaret.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\bin\Debug\WFA_Eticaret.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\obj\Debug\WFA_Eticaret.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\obj\Debug\WFA_Eticaret.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\obj\Debug\WFA_Eticaret.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\obj\Debug\WFA_Eticaret.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\obj\Debug\WFA_Eticaret.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\obj\Debug\WFA_Eticaret.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_Eticaret\obj\Debug\WFA_Eticaret.pdb

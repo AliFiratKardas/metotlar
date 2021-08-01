@@ -1,0 +1,29 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.pdb
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.exe.config
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.exe
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.pdb
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.Form1.resources
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.Properties.Resources.resources
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.exe
+C:\Users\firat\Desktop\OOP\27.07\CA_Inheritance\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.pdb
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.exe.config
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.exe
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\bin\Debug\WFA_BilgisayarToplama.pdb
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.Form1.resources
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.Properties.Resources.resources
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.exe
+C:\Users\firat\Desktop\GİTHUB\CA_InheritanceODEV\WFA_BilgisayarToplama\obj\Debug\WFA_BilgisayarToplama.pdb

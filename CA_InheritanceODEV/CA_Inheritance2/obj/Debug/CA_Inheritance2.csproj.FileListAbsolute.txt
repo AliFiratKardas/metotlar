@@ -1,0 +1,7 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\CA_Inheritance2\bin\Debug\CA_Inheritance2.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\CA_Inheritance2\bin\Debug\CA_Inheritance2.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\CA_Inheritance2\bin\Debug\CA_Inheritance2.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\CA_Inheritance2\obj\Debug\CA_Inheritance2.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\CA_Inheritance2\obj\Debug\CA_Inheritance2.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\CA_Inheritance2\obj\Debug\CA_Inheritance2.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\27.07\CA_Inheritance\CA_Inheritance2\obj\Debug\CA_Inheritance2.pdb
