@@ -1,0 +1,25 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\bin\Debug\WFA_MemberArea.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\bin\Debug\WFA_MemberArea.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\bin\Debug\WFA_MemberArea.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.UserListForm.resources
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\bin\Debug\WFA_MemberArea.exe.config
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\bin\Debug\WFA_MemberArea.exe
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\bin\Debug\WFA_MemberArea.pdb
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.Form1.resources
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.Properties.Resources.resources
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.UserListForm.resources
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.exe
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.pdb
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.LoginForm.resources
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.AdminForm.resources
+C:\Users\firat\Desktop\3-OOP-main\29.07\WFA_MemberArea\WFA_MemberArea\obj\Debug\WFA_MemberArea.UserForm.resources
