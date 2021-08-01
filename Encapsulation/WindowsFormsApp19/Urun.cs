@@ -8,7 +8,20 @@ namespace WindowsFormsApp19
 {
     class Urun
     {
-        public string Ad { get; set; }
+        string _adi;
+        public string Ad 
+        {
+            get
+            {
+                return _adi.ToLower();
+            }
+            set
+            {
+                _adi = value;
+            }
+
+        
+        }
         public decimal Fiyat { get; set; }
 
         public decimal KdvDahilFİyat

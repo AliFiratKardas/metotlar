@@ -66,5 +66,10 @@ namespace WindowsFormsApp19
             musteri.Adres = txtMusteriEmail.Text;
             listBox5.Items.Add(string.Format("{0}{1}{2}{3}", musteri.Ad, musteri.Telefon, musteri.Email, musteri.Adres));
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

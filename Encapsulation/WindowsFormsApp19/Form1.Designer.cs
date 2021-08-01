@@ -53,7 +53,9 @@ namespace WindowsFormsApp19
             this.label7 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.btnMusteri = new System.Windows.Forms.Button();
+            this.rchMusteriAdres = new System.Windows.Forms.RichTextBox();
             this.label15 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.txtMusteriEmail = new System.Windows.Forms.TextBox();
@@ -72,8 +74,6 @@ namespace WindowsFormsApp19
             this.listBox3 = new System.Windows.Forms.ListBox();
             this.listBox4 = new System.Windows.Forms.ListBox();
             this.listBox5 = new System.Windows.Forms.ListBox();
-            this.label9 = new System.Windows.Forms.Label();
-            this.rchMusteriAdres = new System.Windows.Forms.RichTextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudStok)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -316,6 +316,14 @@ namespace WindowsFormsApp19
             this.btnMusteri.UseVisualStyleBackColor = true;
             this.btnMusteri.Click += new System.EventHandler(this.btnMusteri_Click);
             // 
+            // rchMusteriAdres
+            // 
+            this.rchMusteriAdres.Location = new System.Drawing.Point(94, 119);
+            this.rchMusteriAdres.Name = "rchMusteriAdres";
+            this.rchMusteriAdres.Size = new System.Drawing.Size(100, 96);
+            this.rchMusteriAdres.TabIndex = 2;
+            this.rchMusteriAdres.Text = "";
+            // 
             // label15
             // 
             this.label15.AutoSize = true;
@@ -324,6 +332,15 @@ namespace WindowsFormsApp19
             this.label15.Size = new System.Drawing.Size(42, 13);
             this.label15.TabIndex = 0;
             this.label15.Text = "E MAİL";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(6, 122);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(44, 13);
+            this.label9.TabIndex = 0;
+            this.label9.Text = "ADRES";
             // 
             // label14
             // 
@@ -479,23 +496,6 @@ namespace WindowsFormsApp19
             this.listBox5.Size = new System.Drawing.Size(170, 147);
             this.listBox5.TabIndex = 1;
             // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(6, 122);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(44, 13);
-            this.label9.TabIndex = 0;
-            this.label9.Text = "ADRES";
-            // 
-            // rchMusteriAdres
-            // 
-            this.rchMusteriAdres.Location = new System.Drawing.Point(94, 119);
-            this.rchMusteriAdres.Name = "rchMusteriAdres";
-            this.rchMusteriAdres.Size = new System.Drawing.Size(100, 96);
-            this.rchMusteriAdres.TabIndex = 2;
-            this.rchMusteriAdres.Text = "";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -513,6 +513,7 @@ namespace WindowsFormsApp19
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudStok)).EndInit();
