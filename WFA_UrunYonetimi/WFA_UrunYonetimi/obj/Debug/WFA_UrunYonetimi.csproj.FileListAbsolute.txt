@@ -1,0 +1,20 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.pdb
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.exe.config
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.exe
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\bin\Debug\WFA_UrunYonetimi.pdb
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.Form1.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.Properties.Resources.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.exe
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_UrunYonetimi\WFA_UrunYonetimi\obj\Debug\WFA_UrunYonetimi.pdb
