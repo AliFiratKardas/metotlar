@@ -1,0 +1,28 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\bin\Debug\WFA_CineAdam.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\bin\Debug\WFA_CineAdam.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\bin\Debug\WFA_CineAdam.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.MainMenu.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Salon.SalonForm.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Salon.Salon1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Movie.MovieForm.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\3-OOP\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Movie.AddMovie.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.MainMenu.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.Properties.Resources.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Movie.AddMovie.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Movie.MovieForm.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Salon.Salon1.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.WinForm.Salon.SalonForm.resources
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.exe
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.pdb
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\bin\Debug\WFA_CineAdam.exe.config
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\bin\Debug\WFA_CineAdam.exe
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\bin\Debug\WFA_CineAdam.pdb
+C:\Users\firat\Desktop\3-OOP-main\05.08\WFA_CineAdam\WFA_CineAdam\obj\Debug\WFA_CineAdam.AddCustomer.resources
