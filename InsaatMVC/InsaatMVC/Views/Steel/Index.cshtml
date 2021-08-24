@@ -1,0 +1,48 @@
+﻿@using InsaatMVC.Models
+@model List<Steel>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container alert-light">
+        <div class="card">
+            <div class="card-header">
+                <h4>Toplam @Model.Count çeşit çelik bulunmaktadır</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Marka</th>
+                        <th>Çap</th>
+                        <th>Fiyat</th>
+                        <th></th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Steel steel in Model)
+                    {
+                        <tr>
+                            <td> @steel.ID</td>
+                            <td> @steel.Marka</td>
+                            <td> @steel.Cap</td>
+                            <td> @steel.Fiyat</td>
+                            <td><a href="/steel/details/@steel.ID" class="btn btn-success">Malzeme Detayı</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿@using InsaatMVC.Models;
+@model Steel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="card mb-3" style="max-width: 540px;">
+            <div class="row g-0">
+                
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Marka: @Model.Marka </h5>
+                        <p class="card-text">Fİyat: @Model.Fiyat</p>
+
+                        <p>
+                           Çap: @Model.Cap
+                        </p>
+                        <p><h2>Ürün Hakkında</h2></p>
+                        <p>
+                           Ürün dayanım testlerini başarıyşa geçmiş olup TS500 standartlarına uygun imal edilmiştir.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
