@@ -1,0 +1,37 @@
+﻿@model MVCNorthwindCRUD.Models.Product
+@{
+    ViewBag.Title = "AddProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col">
+                <h5 class="card-title float-start">Product List</h5>
+            </div>
+            <div class="col-md-3">
+                @Html.ActionLink("Back To List", "Index", null, new { @class = "btn btn-primary btn-sm" })
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control", placeholder = "Product Name" })
+                    </div>
+                    <div class="col-md-6">
+                        @Html.TextBoxFor(x => x.UnitPrice, new { @class = "form-control", placeholder = "UnitPrice", type = "number" })
+                    </div>
+                    <div class="col-md-6">
+                        @Html.TextBoxFor(x => x.UnitsInStock, new { @class = "form-control", placeholder = "Units In Stock", type = "number" })
+                    </div>
+                    <button class="btn btn-success">Save</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

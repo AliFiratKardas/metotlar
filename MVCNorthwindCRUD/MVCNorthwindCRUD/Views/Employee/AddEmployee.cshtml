@@ -1,0 +1,41 @@
+﻿@using MVCNorthwindCRUD.Models;
+@model Employee
+@{
+    ViewBag.Title = "AddEmployee";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col">
+                <h5 class="card-title float-start">Product List</h5>
+            </div>
+            <div class="col-md-3">
+                @Html.ActionLink("Back To List", "Index", null, new { @class = "btn btn-primary btn-sm" })
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control", placeholder = "First Name" })
+                    </div>
+                    <div class="col-md-6">
+                        @Html.TextBoxFor(x => x.LastName, new { @class = "form-control", placeholder = "Last Name", type = "text" })
+                    </div>
+                    <div class="col-md-6">
+                        @Html.TextBoxFor(x => x.Title, new { @class = "form-control", placeholder = "Title", type = "text" })
+                    </div>
+                    <div class="col-md-6">
+                        @Html.TextBoxFor(x => x.Address, new { @class = "form-control", placeholder = "Adres", type = "text" })
+                    </div>
+                    <button class="btn btn-success">Save</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

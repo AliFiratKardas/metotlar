@@ -1,0 +1,54 @@
+﻿@using MVCNorthwindCRUD.Models;
+@model List<Employee>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col">
+                <h5 class="card-title float-start">Employee List</h5>
+            </div>
+            <div class="col-md-3">
+                @Html.ActionLink("New Employee", "AddEmployee", null, new { @class = "btn btn-success btn-sm" })
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>FirstName</th>
+                    <th>LastName</th>
+                    <th>Title</th>
+                    <th>Adress</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Employee e in Model)
+                {
+                <tr>
+                    <td></td>
+
+                    <td>@e.FirstName</td>
+                    <td>@e.LastName</td>
+                    <td>@e.Title</td>
+                    <td>@e.Address</td>
+
+                    <td>
+                        @Html.ActionLink("Details", "Details", new { id = e.EmployeeID }, new { @class = "btn btn-primary btn-sm" })
+                        @Html.ActionLink("Update", "Update", new { id = e.EmployeeID }, new { @class = "btn btn-warning btn-sm" })
+                        @Html.ActionLink("Delete", "Delete", new { id = e.EmployeeID }, new { @class = "btn btn-danger btn-sm" })
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

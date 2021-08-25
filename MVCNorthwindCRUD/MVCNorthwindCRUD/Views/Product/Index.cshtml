@@ -1,0 +1,58 @@
+﻿@using MVCNorthwindCRUD.Models
+@model List<Product>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col">
+                <h5 class="card-title float-start">Product List</h5>
+            </div>
+            <div class="col-md-3">
+                @Html.ActionLink("New Product", "AddProduct", null, new { @class="btn btn-success btn-sm"})
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Product Name</th>
+                    <th>Unit Price</th>
+                    <th>Units In Stock</th>
+                    <th>Category</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Product p in Model)
+                {
+                <tr>
+                    <td>@p.ProductID</td>
+                    <td>@p.ProductName</td>
+                    <td>@p.UnitPrice</td>
+                    <td>@p.UnitsInStock</td>
+                    @if (p.CategoryID != null)
+                    {
+                        <td>@p.Category.CategoryName</td>
+                    }
+                    else
+                    {
+                        <td>Belirtilmemiş</td>
+                    }
+                <td>
+                    @Html.ActionLink("Details", "Details", new{id=p.ProductID}, new { @class = "btn btn-primary btn-sm" })
+                    @Html.ActionLink("Update", "Update", new{id=p.ProductID}, new { @class = "btn btn-warning btn-sm" })
+                    @Html.ActionLink("Delete", "Delete", new{id=p.ProductID}, new { @class = "btn btn-danger btn-sm" })
+                </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
